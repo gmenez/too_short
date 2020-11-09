@@ -5,7 +5,7 @@ Vous êtes dans un aéroport et vous vous baladez dans les boutiques pendant vot
 
 ![Airport](geoloc.png)
 
-Bien sûr l'aeroport est gavé de borne wifi mais il est aussi compartimenté en zones
+Bien sûr l'aeroport est gavé de bornes wifi mais il est aussi compartimenté en zones
 de sécurité. Qui dit zone de sécurité dit portique et qui dit portique dit file d'attente.
 
 Le problème qui se pose est le suivant : compte tenu de votre position actuelle dans l'aeroport
