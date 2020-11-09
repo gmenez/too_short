@@ -6,7 +6,7 @@ Vous êtes dans un aéroport et vous vous baladez dans les boutiques pendant vot
 ![Airport](geoloc.png)
 
 Bien sûr l'aeroport est gavé de bornes wifi mais il est aussi compartimenté en zones
-de sécurité. Qui dit zone de sécurité dit portique et qui dit portique dit file d'attente.
+de sécurité. Qui dit zones de sécurité dit portiques et qui dit portiques dit file d'attentes.
 
 Le problème qui se pose est le suivant : compte tenu de votre position actuelle dans l'aeroport
 aurez vous le temps de rejoindre votre porte d'embarquement.
@@ -15,5 +15,9 @@ La réponse n'est pas forcément oui ou non, ca peut être plus nuancé du vert 
 L'objet porté par le voyageur doit collaborer avec un service de l'aeroport permettant d'acceder 
 aux horaires des vols et aux objets mesurant le temps d'attente aux portiques.
 
+Cet objet pourrait aussi indiquer le chemin "le plus court" pour atteindre la porte d'embarquement.
+
+C'est un projet complexe. Un gros travail préalabel sera de SIMPLIFER pour essayer de garder l'esprit 
+du sujet SANS se perdre dans des taĉhes non maîtrisées.
 
 
