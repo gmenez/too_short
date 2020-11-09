@@ -13,11 +13,12 @@ aurez vous le temps de rejoindre votre porte d'embarquement.
 La réponse n'est pas forcément oui ou non, ca peut être plus nuancé du vert au rouge !
 
 L'objet porté par le voyageur doit collaborer avec un service de l'aeroport permettant d'acceder 
-aux horaires des vols et aux objets mesurant le temps d'attente aux portiques.
+aux horaires des vols et aux objets mesurant le temps d'attente aux portiques. 
+Il doit aussi participer à sa géolocalisation grâc eà la triangulation Wifi.
 
 Cet objet pourrait aussi indiquer le chemin "le plus court" pour atteindre la porte d'embarquement.
 
-C'est un projet complexe. Un gros travail préalabel sera de SIMPLIFER pour essayer de garder l'esprit 
-du sujet SANS se perdre dans des taĉhes non maîtrisées.
+C'est un projet complexe. Un gros travail préalable sera de SIMPLIFER pour essayer de garder l'esprit 
+du sujet SANS se perdre dans des tâches non maîtrisées.
 
 
