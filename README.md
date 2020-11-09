@@ -10,5 +10,5 @@ Le problème qui se pose est le suivant : compte tenu de votre position actuelle
 aurait vous le temps de rejoindre votre porte d'embarquement.
 La réponse n'est pas forcément oui ou non, ca peut être plus nuancé du vert au rouge !
 
-![alt text](https://github.com/too_short/geoloc.png)
+![alt text](geoloc.png)
 
