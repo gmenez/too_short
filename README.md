@@ -13,7 +13,7 @@ de sécurités.
 Le problème qui se pose est le suivant : compte tenu de votre position actuelle dans l'aéroport
 aurez vous le temps de rejoindre votre porte d'embarquement ?
 
-La réponse n'est pas forcément oui ou non, ca peut être plus nuancé du vert au rouge ?
+La réponse n'est pas forcément oui ou non, cela peut être plus nuancé du vert au rouge ?
 
 L'objet porté par le voyageur doit collaborer avec un service de l'aéroport permettant d'acceder 
 aux horaires des vols et aux objets mesurant le temps d'attente aux
@@ -34,7 +34,8 @@ pourraient être tester.
 Je préfère qu'une partie soit bien traitée
 (dans son contexte) plutôt que d'obtenir un truc sans forme !
 
-* Donc plutôt séquentialiser le traitement des sujets.
+* Donc plutôt séquentialiser le traitement des difficultés ... quitte
+  à ne pas toutes les traiter.
 
 
 <!--- 
