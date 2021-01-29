@@ -34,6 +34,8 @@ pourraient être tester.
 Je préfère qu'une partie soit bien traitée
 (dans son contexte) plutôt que d'obtenir un truc sans forme !
 
+* Donc plutôt séquentialiser le traitement des sujets.
+
 
 <!--- 
 Un gros travail préalable sera de le SIMPLIFIER pour essayer de garder l'esprit 
